@@ -7,4 +7,28 @@ created_at: 06-26-2025
 
 ## 2PM -> 3PM (1 hour)
 
-Spent this time researching and drawign a sketch of what I want this to look like. 
+Spent this time researching possible parts and drawing a sketch of what I want this to look like. After, I wrote out the explicit objectives of this project. 
+
+### Initial Sketch
+![Initial Sketch](https://github.com/user-attachments/assets/45d1da0c-0bc1-4e0a-940c-a1a77d4ac390)
+
+### Interem BOM
+- 0.91 OLED Display
+- EC11 Rotary Encoders
+- MX-Style Switch
+- White DSA Keycap
+- XIAO Microprocessor
+- Custom PCB
+- 3D Printed Case
+- 2.5M x 4mm Screws
+
+### Required Functionality
+This project is meant to be a compact password transporter to where you need to have a secure password but don't want to log into your password manager. 
+
+- This device should be able to store multiple passwords which the encoder should be able to rotate between
+- The OLED pannel should display a short codename for the password (e.x. "password 1")
+- The switch should then be repeatedly pressed until the password in its entierity is transmitted
+- After the password is transmitted, no new data should be pushed even if the switch is pressed. The OLED pannel should communicate that the password has been transmitted (e.x. "successful")
+
+
+sidenote: i've been going into a slump over desiging and itterating complex designs so I thought making this would be a fun in-between project. 
