@@ -1,6 +1,9 @@
 title: PassPad
+
 author: Arya C. 
+
 description: Convinent way to physically transport a password! (I love my password manager but what if I need to log into a public device where I don't want to link that?)
+
 created_at: 06-26-2025
 
 # June 26
