@@ -6,6 +6,8 @@ description: Convinent way to physically transport a password! (I love my passwo
 
 created_at: 06-26-2025
 
+time spent (so far): 19 hours
+
 # June 26
 
 ## 2PM -> 3PM (1 hour)
@@ -74,7 +76,7 @@ Now time for the beast: coding it. I remember last time I used micropython with 
 
 # June 27
 
-## 9PM -> 5AM 7AM -> 1PM (14 hours)
+## 9PM -> 5AM 7AM -> 2PM (15 hours)
 
 Finished my code! 
 
@@ -98,8 +100,10 @@ I wanted to incorporate a "copy" mode but then was lazy and forgot to do it. How
 
 Overall, this was pretty fun, and you can see the full code in main.py under the firmware folder. 
 
+I don't know really what else to add here, because my code is just a representation of my desgin statements that I made earlier in this journal. 
 
-Onto the CAD!
+
+Now, onto the CAD!
 
 
 
