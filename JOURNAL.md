@@ -14,9 +14,10 @@ Spent this time researching possible parts and drawing a sketch of what I want t
 
 ### Interem BOM
 - 0.91 OLED Display
-- EC11 Rotary Encoders
+- EC11 Rotary Encoder
 - MX-Style Switch
 - White DSA Keycap
+- 1N4148 Diodes
 - XIAO Microprocessor
 - Custom PCB
 - 3D Printed Case
@@ -39,3 +40,23 @@ sidenote: i've been going into a slump over desiging and itterating complex desi
 While making the schematic, went into a deep-dive on how microprocessors work! In the past, I only really worked with full on machines (raspberri pi zeros, 3b+) so seeing how this worked in a custom project was pretty cool. 
 
 After looking into that, I started on my PCB schematic. This is, compared to my other projects, stupidly simple. But it was cool nonetheless--I have never seen a similar device in the wild and it feels really cool being able to build something. 
+
+
+<img width="500" alt="Screenshot 2025-06-27 at 12 56 19 AM" src="https://github.com/user-attachments/assets/858fd87c-4774-47c0-a236-bc5e6467911a" />
+
+
+### GPIO Guide
+- 5v -> 5V (-> implicitly attached to VCC on display)
+- GND -> GND (-> implicitly attached to GND on display, C pin on encoder, switch on encoder, and switch)
+- Pin 1 -> diode -> one side of switch (other side is grounded)
+- Pin 26 -> A pin on encoder
+- Pin 27 -> diode -> one side of switch on encoder (other switch on encoder is grounded)
+- Pin 28 -> B pin on encoder
+- Pin 29 -> SCL on display
+- Pin 6 -> SDA on display
+
+now onto the PCB design!
+
+
+
+
