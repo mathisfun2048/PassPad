@@ -32,3 +32,10 @@ This project is meant to be a compact password transporter to where you need to 
 
 
 sidenote: i've been going into a slump over desiging and itterating complex designs so I thought making this would be a fun in-between project. 
+
+
+## 6PM -> 8PM (2 hours)
+
+While making the schematic, went into a deep-dive on how microprocessors work! In the past, I only really worked with full on machines (raspberri pi zeros, 3b+) so seeing how this worked in a custom project was pretty cool. 
+
+After looking into that, I started on my PCB schematic. This is, compared to my other projects, stupidly simple. But it was cool nonetheless--I have never seen a similar device in the wild and it feels really cool being able to build something. 
