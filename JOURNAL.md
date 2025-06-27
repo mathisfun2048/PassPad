@@ -106,7 +106,18 @@ I don't know really what else to add here, because my code is just a representat
 Now, onto the CAD!
 
 
+## 2PM -> 4PM (2 Hours)
 
+Finished the CAD case!
+
+![CAD_Case_Together_Front](https://github.com/user-attachments/assets/228d2c02-e028-4f4e-8cc3-ea4853b50542)
+![CAD_Case_Together_Back](https://github.com/user-attachments/assets/43eb18e7-db4d-464b-b2cc-3e35ed215d83)
+![CAD_Case_Seperated_Front](https://github.com/user-attachments/assets/0bc24ce7-933c-4a87-96e0-afb060655d69)
+
+
+## 4PM -> 5PM (1 Hour)
+
+Put the repo all together for submission!
 
 
 
