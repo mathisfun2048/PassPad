@@ -74,9 +74,37 @@ Now time for the beast: coding it. I remember last time I used micropython with 
 
 # June 27
 
-## 9PM -> 5AM (8 hours)
+## 9PM -> 5AM 7AM -> 1PM (14 hours)
 
-started code; not done yet. Will come back to it in a bit (sleepy)
+Finished my code! 
+
+Who could have thought this would be so complicated! 
+
+Okay so here was my process:
+At first I started with micropython, becasue I thought it would be a similar proccess as to my hackpad. I was wrong....
+
+Because my device is not purely a keybaord, I could not use KMK libraries... fun fun
+
+So I went searching for soemthing that would be a tad bit more usable per my skill level, and I discovered circuit python! Which had a LOT of libraries I could use to not work in low-level code! YAY!
+
+
+Here is everything I was able to import to help with the code:
+
+<img width="500" alt="Screenshot 2025-06-27 at 1 36 20 PM" src="https://github.com/user-attachments/assets/7aef729a-e7fc-4eb9-81b2-444c015e834f" />
+
+One thing that I saw that made my code more rohbust was me being able to incorporate error handeling! I first truly learned the neccesity of it while making my PaperCAM project, and it was nice being able to see my learning and apply it to this. Error handeling is present primarily if the host device does not support HID, in which case the OLED pannel will display an error message. 
+
+I wanted to incorporate a "copy" mode but then was lazy and forgot to do it. However, I was able to implement OS detection, so it will be reletivily easy to implmement that in the future. The reason I need OS detection is because I use a Mac which does not interpret CTRL+C as CMD+C. 
+
+Overall, this was pretty fun, and you can see the full code in main.py under the firmware folder. 
+
+
+Onto the CAD!
+
+
+
+
+
 
 
 
