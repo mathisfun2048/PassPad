@@ -41,12 +41,13 @@ While making the schematic, went into a deep-dive on how microprocessors work! I
 
 After looking into that, I started on my PCB schematic. This is, compared to my other projects, stupidly simple. But it was cool nonetheless--I have never seen a similar device in the wild and it feels really cool being able to build something. 
 
+<img width="500" alt="Schematic" src="https://github.com/user-attachments/assets/dca50135-9fe8-40f4-b07f-57827bb4835d" />
 
-<img width="500" alt="Screenshot 2025-06-27 at 12 56 19 AM" src="https://github.com/user-attachments/assets/858fd87c-4774-47c0-a236-bc5e6467911a" />
+
 
 
 ### GPIO Guide
-- 5v -> 5V (-> implicitly attached to VCC on display)
+- 3.3v -> 3.3V (-> implicitly attached to VCC on display)
 - GND -> GND (-> implicitly attached to GND on display, C pin on encoder, switch on encoder, and switch)
 - Pin 1 -> diode -> one side of switch (other side is grounded)
 - Pin 26 -> A pin on encoder
@@ -56,6 +57,21 @@ After looking into that, I started on my PCB schematic. This is, compared to my 
 - Pin 6 -> SDA on display
 
 now onto the PCB design!
+
+
+## 10PM -> 11PM (1 hour)
+
+Finished the PCB!
+
+<img width="500" alt="Screenshot 2025-06-27 at 2 07 22 AM" src="https://github.com/user-attachments/assets/bd968576-1681-4c4e-a822-2cde2b15ebe1" />
+
+
+Now time for the beast: coding it. I remember last time I used micropython with this controler and it wasn't the worst... lets see how this goes. This project, in my opinion, is more complex algorithmically than the hackpad (which has a lot of open keyboard examples online which I could directly learn from). This is me operating it all on my own! I hope it'll be fun though...
+
+
+
+
+
 
 
 
