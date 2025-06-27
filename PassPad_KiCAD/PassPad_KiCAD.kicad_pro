@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../CAD/PassPad_PCB_STEP.step",
       "svg": "",
       "vrml": ""
     },
