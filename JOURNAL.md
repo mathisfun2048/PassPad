@@ -62,7 +62,7 @@ After looking into that, I started on my PCB schematic. This is, compared to my 
 now onto the PCB design!
 
 
-## 10PM -> 11PM (1 hour)
+## 8PM -> 9PM (1 hour)
 
 Finished the PCB!
 
@@ -70,6 +70,13 @@ Finished the PCB!
 
 
 Now time for the beast: coding it. I remember last time I used micropython with this controler and it wasn't the worst... lets see how this goes. This project, in my opinion, is more complex algorithmically than the hackpad (which has a lot of open keyboard examples online which I could directly learn from). This is me operating it all on my own! I hope it'll be fun though...
+
+
+# June 27
+
+## 9PM -> 5AM (8 hours)
+
+started code; not done yet. Will come back to it in a bit (sleepy)
 
 
 
