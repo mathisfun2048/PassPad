@@ -318,6 +318,7 @@ class PasswordManager:
             self.handle_error(f"Display update failed: {e}")
 
     def display_config_screen(self):
+        global value, value
         option_name = self.config_options[self.config_option]
 
         if self.config_option == 0:
