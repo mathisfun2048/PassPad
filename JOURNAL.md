@@ -120,7 +120,9 @@ Finished the CAD case!
 Put the repo all together for submission!
 
 
+# I belive I have everything prepped for this project, including a Custom PCB, Custom Firmware, Custom Case, and associated components. The next step for me is to order my components and build this thing! Very excited
 
+# One quick (and big) thank you to hack club for motivating me to do this project. Its ben an amazing run--thank you!
 
 
 
