@@ -118,6 +118,17 @@ Finished the CAD case!
 
 Put the repo all together for submission!
 
+# July 2 
+
+## 2AM -> 4AM (2 hours)
+
+Was about to send this to print, but found some things I could revise. First, the dispaly wasn't wired propelry. I also found out that the display on my hackpad wasn't wired properly! I will have to change teh I2C on that manually through software. For this, though, I was able to fix it. I also removed teh diodes as they had no real purpous. I also cleaned up the PCB wiring. 
+
+<img width="684" alt="Screenshot 2025-07-02 at 3 58 58 AM" src="https://github.com/user-attachments/assets/c29f09cd-8a30-482b-89b9-853b54bc2069" />
+
+<img width="751" alt="Screenshot 2025-07-02 at 3 59 11 AM" src="https://github.com/user-attachments/assets/0cbddd25-4b16-4130-8929-d3ee75dd2478" />
+
+
 
 # I belive I have everything prepped for this project, including a Custom PCB, Custom Firmware, Custom Case, and associated components. The next step for me is to order my components and build this thing! Very excited
 
