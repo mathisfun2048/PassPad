@@ -39,11 +39,11 @@ For this project, I kept pretty much exactly to my initial sketch. Here's some i
 
 
 ### Schematic
-<img width="500" alt="Schematic" src="https://github.com/user-attachments/assets/b0ecda9c-f120-4939-ac24-98550749557e" />
+<img width="500" alt="Screenshot 2025-07-02 at 4 01 11 AM" src="https://github.com/user-attachments/assets/d8d58f80-b80d-41cb-84f5-7960fea280da" />
 
 
 ### PCB
-<img width="825" alt="PCB" src="https://github.com/user-attachments/assets/e2679079-3262-4a04-a8f0-c0a9bd23986b" />
+<img width="500" alt="Screenshot 2025-07-02 at 4 00 47 AM" src="https://github.com/user-attachments/assets/7b75d7b3-f1de-44b5-9705-740307d68f45" />
 
 
 ## Firmware
