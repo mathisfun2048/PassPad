@@ -2,6 +2,9 @@
 
 ![Initial Sketch](https://github.com/user-attachments/assets/1e8a41a7-2f07-4a86-a2f1-a32b6212f76f)
 
+
+![IMG_5140](https://github.com/user-attachments/assets/f8fa7290-a130-47ec-9248-8ae60e8c3227)
+
 ## Description and Exigence
 
 This is my fourth attempt at hardware design, and it's been so much fun!
@@ -81,3 +84,4 @@ NOTE: I know some items can be found cheaper through other retailars: the only p
 |Custom PCB         |1       |2  + shipping  |https://jlcpcb.com                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |2.5M x 4mm Screws  |8       |0    |n/a, self-provided                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |                   |        |~$38|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
