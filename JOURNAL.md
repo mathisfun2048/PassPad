@@ -135,6 +135,17 @@ Was about to send this to print, but found some things I could revise. First, th
 # One quick (and big) thank you to hack club for motivating me to do this project. Its ben an amazing run--thank you!
 
 
+# August 4th 6PM -> 10PM (4 hours)
+
+finally got around to making this!
+
+![IMG_5140](https://github.com/user-attachments/assets/1f29200a-da88-47ec-9dc8-cd9db0e4e682)
+
+
+was fairly easy, because I was able to re-use a lot of elements from my macropad. the soldering also went by well... im glad I'm getting better! I don't knwo what else to add here, because everything went smoothly, including the software, which is surprising. 
+
+here is a demo video: https://youtube.com/shorts/AUEiD2HvVok
+
 
 
 
