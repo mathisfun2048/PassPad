@@ -26,10 +26,10 @@ enc_b.direction = digitalio.Direction.INPUT
 enc_b.pull = digitalio.Pull.UP
 
 codes = {
-    "WORK": "ABC123XYZ",
-    "HOME": "DEF456UVW", 
-    "GAME": "GHI789RST",
-    "TEST": "JKL012MNO"
+    "gmail": "ABC123XYZ",
+    "discord": "DEF456UVW", 
+    "reddit": "GHI789RST",
+    "jetbrains": "JKL012MNO"
 }
 
 keys = list(codes.keys())
@@ -41,7 +41,9 @@ display_needs_update = True
 splash = displayio.Group()
 display.root_group = splash
 
-text_area = label.Label(terminalio.FONT, text="", color=0xFFFFFF, x=10, y=32)
+text_area = label.Label(terminalio.FONT, text="", color=0xFFFFFF, x=64, y=16)
+text_area.anchor_point = (0.5, 0.5)
+text_area.anchored_position = (64, 16)
 splash.append(text_area)
 
 def update_display():
@@ -79,5 +81,4 @@ while True:
     if switch.value and switch_pressed:
         switch_pressed = False
         display_needs_update = True
-    
-    
+
